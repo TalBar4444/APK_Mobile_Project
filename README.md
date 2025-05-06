@@ -26,4 +26,9 @@ Arrow directions are also mapped to numbers:
     - Perform a modulo operation: `digit % 4`
     - Based on the result, press the corresponding arrow direction as listed above.
 
+
+## Screenshots
+<img src="screenshots/game" alt="game" width="270"/>
+<img src="screenshots/result" alt="results" width="270"/>
+
 ---
