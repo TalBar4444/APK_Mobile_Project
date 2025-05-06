@@ -31,8 +31,8 @@ Arrow directions are also mapped to numbers:
 
 <table>
     <tr>
-        <td><img src="screenshots/game" alt="game" width="270"/></td>
-        <td><img src="screenshots/result" alt="results" width="270"/></td>
+        <td><img src="screenshots/game.png" alt="game" width="270"/></td>
+        <td><img src="screenshots/result.png" alt="results" width="270"/></td>
     </tr>
 </table>
 ---
